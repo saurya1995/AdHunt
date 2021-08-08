@@ -1,4 +1,4 @@
-# team-30/backend
+# AdHunt/backend
 
 ## Prerequisites
 
