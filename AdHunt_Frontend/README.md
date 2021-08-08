@@ -1,4 +1,4 @@
-# team-30/frontend
+# AdHunt/frontend
 
 ## Prerequisites
 
