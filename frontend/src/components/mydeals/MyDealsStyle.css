@@ -1,0 +1,79 @@
+.div-cards {
+  margin-left: 15px;
+  margin-right: 15px;
+  align-content: center;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.container-cards {
+  min-width: 500px;
+  max-width: 720px;
+}
+
+.mydealcard-div {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  display: "flex";
+}
+.mydealcard {
+  overflow: hidden;
+  padding: 5px 20px 5px 10px;
+  display: "flex";
+}
+
+.offerapplicationcard-collapse {
+  overflow: scroll;
+  display: "flex";
+  background-color: "#90f0d6";
+}
+
+.offerapplicationcard {
+  overflow: hidden;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-left: 5px; 
+  padding: 10px 20px 0px 10px;
+  display: "flex";
+}
+
+.details {
+  display: "flex";
+  flex-direction: "column";
+}
+
+.content {
+  flex: "1 0 auto";
+}
+
+.deal-actions {
+  display: "flex";
+  align-items: "center";
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* paddingLeft: theme.spacing(1);
+    paddingBottom: theme.spacing(1); */
+}
+
+.editmodalstyle {
+  position: absolute;
+  inset: 50% 50% auto;
+  top: 50%;
+  right: 50%;
+  bottom: auto;
+  left: 50%;
+  border: 1px solid rgb(204, 204, 204);
+  background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+  overflow: auto;
+  border-radius: 4px;
+  outline: currentcolor none medium;
+  outline-color: currentcolor;
+  outline-style: none;
+  outline-width: medium;
+  padding: 20px;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}

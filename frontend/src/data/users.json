@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "60ce6481fba35de1177d7519"
+  },
+  "role": "member",
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "email": "office@Ubisoft.de",
+  "kind": "business",
+  "username": "Ubisoft",
+  "password": "Ubisoft",
+  "name": "Ubisoft",
+  "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.mobilesyrup.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fnew-ubisoft-logo.jpg&f=1&nofb=1",
+  "lastTimeOnline": "2021—06-08T20:10:21.5502",
+  "description": "Ubisoft Publishing, Inc. is an American video game publisher based in Santa Monica, California.",
+  "category": "gaming",
+  "subCategory": "Arcade",
+  "avgrating": "3",
+  "avgRating": "3"
+},{
+  "_id": {
+    "$oid": "60ce6432fba35de1177d7517"
+  },
+  "role": "member",
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "email": "office@nvidia.de",
+  "kind": "business",
+  "username": "Nvidea",
+  "password": "Nvidea",
+  "name": "Nvidea",
+  "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2FATEJJpZ.jpg&f=1&nofb=1",
+  "lastTimeOnline": "2021—06-08T20:10:21.5502",
+  "description": "Nvidea Publishing, Inc. is an American video game publisher based in Santa Monica, California.",
+  "category": "education",
+  "subCategory": "Medical",
+  "avgrating": "3",
+  "avgRating": "3"
+},{
+  "_id": {
+    "$oid": "60ce649cfba35de1177d751a"
+  },
+  "role": "member",
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "email": "office@EASports.de",
+  "kind": "business",
+  "username": "EASports",
+  "password": "EASports",
+  "name": "EASports",
+  "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets1.ignimgs.com%2F2019%2F02%2F25%2Factivision-logo-2001-1551121437729_1280w.jpg&f=1&nofb=1",
+  "lastTimeOnline": "2021—06-08T20:10:21.5502",
+  "description": "EASports Publishing, Inc. is an American video game publisher based in Santa Monica, California.",
+  "category": "gaming",
+  "subCategory": "Arcade",
+  "avgrating": "3",
+  "avgRating": "3"
+},{
+  "_id": {
+    "$oid": "60ce64b2fba35de1177d751b"
+  },
+  "role": "member",
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "email": "office@Glu.de",
+  "kind": "business",
+  "username": "Glu",
+  "password": "Glu",
+  "name": "Glu",
+  "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fid%2Fthumb%2F0%2F0f%2FGlu_logo_on_white.svg%2F1200px-Glu_logo_on_white.svg.png&f=1&nofb=1",
+  "lastTimeOnline": "2021—06-08T20:10:21.5502",
+  "description": "Glu Publishing, Inc. is an American video game publisher based in Santa Monica, California.",
+  "category": "gaming",
+  "subCategory": "All",
+  "avgrating": "3",
+  "avgRating": "3"
+},{"_id":{"$oid":"60d8481685765e5fe3769cf3"},"role":"member","communicationDetails":["+91 9411178219"],"email":"Joma@Supercell.de","kind":"contentcreator","username":"Joma","category":"education","avgRating":"4","subCategory":["All"],"password":"$2a$08$KUvUKqJWsp/K3qUlnBlf3Os19JGmOhyY0rJsy7/Z0xPm/q9/cJpKS","name":"Joma","image":"https://external-preview.redd.it/TXp69CfIkC0YCTisNtn52JvvPsqR37Zpssg9G2qRsls.jpg?auto=webp&s=77e3299dc3d5d1bade2b29437daae7405a20216a","lastTimeOnline":"2021—06-08T20:10:21.5502","description":"Joma Tech's available for business partnerships. I'm Joma, I make videos on YouTube for people who want to get into the tech industry.. I've worked in software engineering, data science and product management in various Silicon Valley companies. ","platformLinks":["joma@tiktok"]},{
+  "_id": {
+    "$oid": "60ce64cafba35de1177d751c"
+  },
+  "role": "member",
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "email": "office@Supercell.de",
+  "kind": "business",
+  "username": "Supercell",
+  "password": "Supercell",
+  "name": "Supercell",
+  "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1d%2F45%2Fe8%2F1d45e818a6dd131c5adbd31abe21134f.jpg&f=1&nofb=1",
+  "lastTimeOnline": "2021—06-08T20:10:21.5502",
+  "description": "Supercell Publishing, Inc. is an American video game publisher based in Santa Monica, California.",
+  "category": "gaming",
+  "subCategory": "Arcade",
+  "avgrating": "3",
+  "avgRating": "3"
+},{
+  "_id": {
+    "$oid": "60ce643afba35de1177d7518"
+  },
+  "role": "member",
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "email": "office@Activision.de",
+  "kind": "business",
+  "username": "Activision",
+  "password": "Activision",
+  "name": "Activision",
+  "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets1.ignimgs.com%2F2019%2F02%2F25%2Factivision-logo-2001-1551121437729_1280w.jpg&f=1&nofb=1",
+  "lastTimeOnline": "2021—06-08T20:10:21.5500",
+  "description": "Activision Publishing, Inc. is an American video game publisher based in Santa Monica, California.",
+  "category": "gaming",
+  "subCategory": "Arcade",
+  "avgrating": "3",
+  "avgRating": "3"
+},{
+  "_id": {
+    "$oid": "60d8e3cccb0da339c02ab821"
+  },
+  "role": "member",
+  "subCategory": [
+    "All"
+  ],
+  "communicationDetails": [
+    "+91 9829499009"
+  ],
+  "platformLinks": [],
+  "kind": "contentcreator",
+  "email": "Ensar@Supercell.de",
+  "username": "Ensar",
+  "category": "education",
+  "avgRating": "4",
+  "password": "Ensar",
+  "name": "Ensar",
+  "image": "https://cdn.vox-cdn.com/thumbor/qiMlg99Fszu-DkutODahJQOYoao=/0x0:2448x1632/1200x800/filters:focal(0x0:2448x1632)/cdn.vox-cdn.com/uploads/chorus_image/image/49450135/usa-today-8892745.0.jpg",
+  "description": "Ensar Tech's Media kit for business partnerships. I'm Joma, I make videos on YouTube for people who want to get into the tech industry.. I've worked in software engineering, data science and product management in various Silicon Valley companies. ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ea5fb7aed42dfb920f4888"
+  },
+  "role": "member",
+  "subCategory": [
+    "All"
+  ],
+  "communicationDetails": [],
+  "platformLinks": [],
+  "reviews": [],
+  "kind": "contentcreator",
+  "username": "naada",
+  "password": "123",
+  "category": "music",
+  "description": "Hey, I'm Nada",
+  "email": "nada@nada.nada",
+  "__v": 0
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "60edaf2d7808701d2427f85f"
+  },
+  "status": "pending",
+  "userId": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  },
+  "offerId": {
+    "$oid": "60db840d6d3c082d7876db61"
+  },
+  "createdAt": {
+    "$date": "2021-07-13T15:20:13.224Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-13T15:20:13.224Z"
+  }
+},{
+  "_id": {
+    "$oid": "60edaf347808701d2427f860"
+  },
+  "status": "pending",
+  "userId": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  },
+  "offerId": {
+    "$oid": "60db84956d3c082d7876db62"
+  },
+  "createdAt": {
+    "$date": "2021-07-13T15:20:20.281Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-13T15:20:20.281Z"
+  }
+}]

@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "60de5f18083ec03954befd1c"
+  },
+  "metricName": "Viewership",
+  "description": "Engagement metrics of the user",
+  "metric_image": "https://techienize.com/wp-content/uploads/2018/07/Google-analytics-1024x539.png",
+  "user_id": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  }
+}]

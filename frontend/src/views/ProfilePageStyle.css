@@ -1,0 +1,62 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-auto-rows: minmax(auto, auto);
+  margin-left: 8%;
+  margin-right: 8%;
+}
+.general_info {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  padding: 20pt;
+  border-width: 1.5px;
+  border-color: rgb(206, 204, 204);
+  border-style: solid;
+  background-color: #8080800a;
+}
+.category {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding: 0pt 70pt 20pt 40pt;
+  border-width: 1.5px;
+  border-color: rgb(206, 204, 204);
+  border-style: solid;
+  background-color: #8080800a;
+}
+.about {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  padding: 20pt;
+  border-width: 1.5px;
+  border-color: rgb(206, 204, 204);
+  border-style: solid;
+}
+.offers {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  padding: 20pt;
+  border-width: 1.5px;
+  border-color: rgb(206, 204, 204);
+  border-style: solid;
+  background-color: #8080801f;
+}
+.analytics {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  padding: 20pt;
+  border-width: 1.5px;
+  border-color: rgb(206, 204, 204);
+  border-style: solid;
+  background-color: #8080800a;
+}
+.reviewsView {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  padding: 20pt;
+  border-width: 1.5px;
+  border-color: rgb(206, 204, 204);
+  border-style: solid;
+  background-color: #8080801f;
+}

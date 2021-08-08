@@ -1,0 +1,8 @@
+.ui.dimmer {
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.modal {
+  height: auto;
+}

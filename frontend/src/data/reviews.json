@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "60da1c8935e26c48d4453434"
+  },
+  "tagsProcess": [
+    "Smooth",
+    "Practical"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Super Partner"
+  ],
+  "commentPartner": "Joma had an excellent entry and were open to feedback to meet the contest requirements and expectations",
+  "commentProcess": "Good",
+  "ratePartner": 5,
+  "rateProcess": 4.5,
+  "partnerName": "Joma",
+  "createdAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "username": "Nvidea"
+},{
+  "_id": {
+    "$oid": "60db436135e26c48d4453435"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Punctual",
+    "Super Partner"
+  ],
+  "commentPartner": "Joma did an excellent job throughout this complex process",
+  "commentProcess": "Nicee!",
+  "ratePartner": 4,
+  "rateProcess": 4.5,
+  "partnerName": "Joma",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "Ensar"
+},{
+  "_id": {
+    "$oid": "60e44573c382a65b7026c45d"
+  },
+  "tagsProcess": [
+    "Impractical"
+  ],
+  "tagsPartner": [
+    "Bad Partner",
+    "Unreliable"
+  ],
+  "commentPartner": "Unfortunately, we couldn't meet on the same page. Price was too expencive!",
+  "commentProcess": "Bad",
+  "ratePartner": 2,
+  "rateProcess": 2,
+  "partnerName": "Joma",
+  "createdAt": {
+    "$date": "2021-07-06T11:58:43.012Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-06T11:58:43.012Z"
+  },
+  "username": "Activision"
+},{
+  "_id": {
+    "$oid": "67e44535c382a65b7026c45d"
+  },
+  "tagsProcess": [
+    "Practical"
+  ],
+  "tagsPartner": [
+    "Super Partner",
+    "Reliable"
+  ],
+  "commentPartner": "Excellent experience",
+  "commentProcess": "Bad",
+  "ratePartner": 5,
+  "rateProcess": 2,
+  "partnerName": "Activision",
+  "createdAt": {
+    "$date": "2021-07-06T11:58:43.012Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-06T11:58:43.012Z"
+  },
+  "username": "Joma"
+},{
+  "_id": {
+    "$oid": "60f71584a2d3b1c632b35e9b"
+  },
+  "tagsProcess": [
+    "Super Satisfied"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Super Partner"
+  ],
+  "commentPartner": "Fantastic experience as always!",
+  "commentProcess": "Super",
+  "ratePartner": 5,
+  "rateProcess": 4.5,
+  "partnerName": "Ensar",
+  "createdAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "username": "Ubisoft"
+},{
+  "_id": {
+    "$oid": "60f71584a2d4b2c358b35e9b"
+  },
+  "tagsProcess": [
+    "Super Satisfied"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Super Partner"
+  ],
+  "commentPartner": "Super Satisfied!",
+  "commentProcess": "Super",
+  "ratePartner": 5,
+  "rateProcess": 4,
+  "partnerName": "Ubisoft",
+  "createdAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "username": "Ensar"
+},{
+  "_id": {
+    "$oid": "60f71594a2d3b1c632b35e9c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Punctual",
+    "Super Partner"
+  ],
+  "commentPartner": "It was a pleasure working with Ensar, he did a fantastic job!",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4,
+  "partnerName": "Ensar",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "Joma"
+},{
+  "_id": {
+    "$oid": "60f71594a2d1b1c632b57e9c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Punctual",
+    "Super Partner"
+  ],
+  "commentPartner": "Ensar was a delight to work with. He is extremely professional and patient who delivered the deal with superb quality within budget and time.",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4,
+  "partnerName": "Ensar",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "EASports"
+},{
+  "_id": {
+    "$oid": "60f71594a2d1b1c910b57e9c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Super Partner"
+  ],
+  "commentPartner": "EASports was a delight to work with.",
+  "commentProcess": "Good",
+  "ratePartner": 5,
+  "rateProcess": 4,
+  "partnerName": "EASports",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "Ensar"
+},{
+  "_id": {
+    "$oid": "60f71591a2d1b1c632b57e9c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Punctual",
+    "Super Partner"
+  ],
+  "commentPartner": "Ensar was a delight to work with. He is extremely professional and patient who delivered the deal with superb quality within budget and time.",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4,
+  "partnerName": "Ensar",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "EASports"
+},{
+  "_id": {
+    "$oid": "60f17891a2d1b1c632b57e9c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Super Partner"
+  ],
+  "commentPartner": "Marques Browniee did a great job.",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4,
+  "partnerName": "mkbhd",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "EASports"
+},{
+  "_id": {
+    "$oid": "60f17891a1d1b1c682b57e3c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Super Partner"
+  ],
+  "commentPartner": "EASports was a great partner to work with.",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4,
+  "partnerName": "EASports",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "mkbhd"
+},{
+  "_id": {
+    "$oid": "60f17891a2d1b1c362b57e9c"
+  },
+  "tagsProcess": [
+    "Smooth"
+  ],
+  "tagsPartner": [
+    "Super Partner"
+  ],
+  "commentPartner": "Easy, and fast. Marques Browniee dedicated himself to us. We never felt rushed and he was able to fill in the blanks of the things we couldn't connect the dots on.",
+  "commentProcess": "Good",
+  "ratePartner": 5,
+  "rateProcess": 4,
+  "partnerName": "mkbhd",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "Supercell"
+},{
+  "_id": {
+    "$oid": "60f17821a8d1b1c362b17e9c"
+  },
+  "tagsProcess": [
+    "Super Satisfied"
+  ],
+  "tagsPartner": [
+    "Super Partner",
+    "Reliable"
+  ],
+  "commentPartner": "Easy, reliable and fast.",
+  "commentProcess": "Good",
+  "ratePartner": 5,
+  "rateProcess": 4,
+  "partnerName": "Supercell",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "mkbhd"
+},{
+  "_id": {
+    "$oid": "60f11021a8d1b1c362b17e9c"
+  },
+  "tagsProcess": [
+    "Super Satisfied"
+  ],
+  "tagsPartner": [
+    "Super Partner",
+    "Reliable"
+  ],
+  "commentPartner": "Reliable and fast.",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4,
+  "partnerName": "mkbhd",
+  "createdAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T15:59:29.749Z"
+  },
+  "username": "Supercell"
+},{
+  "_id": {
+    "$oid": "68da1c8645e26c48d4453434"
+  },
+  "tagsProcess": [
+    "Smooth",
+    "Practical"
+  ],
+  "tagsPartner": [
+    "Reliable",
+    "Super Partner"
+  ],
+  "commentPartner": "Super Partner!",
+  "commentProcess": "Good",
+  "ratePartner": 4,
+  "rateProcess": 4.5,
+  "partnerName": "Nvidea",
+  "createdAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-28T19:01:29.499Z"
+  },
+  "username": "Joma"
+}]

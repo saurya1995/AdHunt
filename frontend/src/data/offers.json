@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "60db840d6d3c082d7876db61"
+  },
+  "tags": [
+    "Action",
+    "Android",
+    "iOS"
+  ],
+  "platform": [
+    "Facebook",
+    "Instagram",
+    "YouTube"
+  ],
+  "title": "Call of Duty: Mobile Promotion",
+  "description": "Post 15 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section.",
+  "price": "2000",
+  "userId": {
+    "$oid": "60ce643afba35de1177d7518"
+  },
+  "detail_description": "Need to post 15 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section. Post on your Instagram page. Create an Instagram story while playing the game. Add details about the game on your Facebook page",
+  "createdAt": {
+    "$date": "2021-06-29T20:35:25.637Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T20:35:25.637Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db84ee6d3c082d7876db63"
+  },
+  "tags": [
+    "Action"
+  ],
+  "platform": [
+    "Facebook",
+    "Instagram",
+    "YouTube"
+  ],
+  "title": "Gameplay Need for Speed: Mobile Promotion",
+  "description": "Post 20 sec video trailer in starting of your video. Stream on Saturday",
+  "price": "4500",
+  "userId": {
+    "$oid": "60d8e3cccb0da339c02ab821"
+  },
+  "detail_description": "Need to post 20 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section. Post on your Instagram page. Create an Instagram story while playing the game. Add details about the game on your Facebook page",
+  "createdAt": {
+    "$date": "2021-06-29T20:39:10.239Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T20:39:10.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de729dc90f435e8c4be0cc"
+  },
+  "tags": [
+    "Java"
+  ],
+  "platform": [
+    "YouTube"
+  ],
+  "title": "Java Tutorial",
+  "userId": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  },
+  "description": "Java Tutorial",
+  "detail_description": "Java is a set of computer software and specifications developed by James Gosling at Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment.",
+  "price": "2500",
+  "user_id": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-02T01:57:49.939Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-02T01:57:49.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de7250c90f435e8c4be0cb"
+  },
+  "tags": [
+    "python"
+  ],
+  "platform": [
+    "YouTube",
+    "Instagram"
+  ],
+  "title": "Python Tutorial",
+  "userId": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  },
+  "description": "Python Tutorial",
+  "detail_description": "Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3. Python is a programming language that lets you work quickly and integrate systems more effectively.",
+  "price": "2000",
+  "user_id": {
+    "$oid": "60d8481685765e5fe3769cf3"
+  },
+  "createdAt": {
+    "$date": "2021-07-02T01:56:32.785Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-02T01:56:32.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db84956d3c082d7876db62"
+  },
+  "tags": [
+    "Android"
+  ],
+  "platform": [
+    "Facebook",
+    "Instagram",
+    "YouTube"
+  ],
+  "title": "Need for Speed: Mobile Promotion",
+  "description": "Post 20 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section.",
+  "price": "1500",
+  "userId": {
+    "$oid": "60ce649cfba35de1177d751a"
+  },
+  "detail_description": "Need to post 20 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section. Post on your Instagram page. Create an Instagram story while playing the game. Add details about the game on your Facebook page",
+  "createdAt": {
+    "$date": "2021-06-29T20:37:41.240Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T20:37:41.240Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de73cf3a5d2b28a1ee46be"
+  },
+  "tags": [
+    "Action, Android, iOS"
+  ],
+  "platform": [
+    "Facebook",
+    "Instagram",
+    "YouTube"
+  ],
+  "title": "Crisis 3",
+  "description": "Post 17 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section.",
+  "price": "2000",
+  "userId": {
+    "$oid": "60ce643afba35de1177d7518"
+  },
+  "detail_description": "Need to post 20 sec video trailer in starting of your video. Attach link to download the game in Description section and comment section. Post on your Instagram page. Create an Instagram story while playing the game. Add details about the game on your Facebook page",
+  "createdAt": {
+    "$date": "2021-06-29T20:35:25.637Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T20:35:25.637Z"
+  },
+  "__v": 0
+}]

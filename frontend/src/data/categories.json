@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "60f0d81b9dbd9e41a8f7f138"
+  },
+  "subCategory": [
+    "All",
+    "Action",
+    "Arcade",
+    "Adventure"
+  ],
+  "category": "gaming"
+},{
+  "_id": {
+    "$oid": "60f0d8279dbd9e41a8f7f139"
+  },
+  "subCategory": [
+    "All",
+    "Science",
+    "Maths",
+	"Commerce",
+    "Computer",
+    "Medical"
+  ],
+  "category": "education"
+},{
+  "_id": {
+    "$oid": "60f0d8609dbd9e41a8f7f13a"
+  },
+  "subCategory": [
+    "All",
+    "Car",
+    "Bike",
+    "Cycle",
+    "Truck",
+    "Bus"
+  ],
+  "category": "automobile"
+},{
+  "_id": {
+    "$oid": "60f560822f6a4f4888d98a35"
+  },
+  "subCategory": [
+    "Jazz",
+    "Metal",
+    "Pop",
+    "Classical",
+    "HipHop",
+    "Blues",
+    "EDM",
+    "Dubstep"
+  ],
+  "category": "music"
+},{
+  "_id": {
+    "$oid": "60f560c12f6a4f4888d98a36"
+  },
+  "subCategory": [
+    "Makeup",
+    "Jewellary",
+    "Clothes",
+    "Watches",
+    "Glasses",
+    "Shoes",
+    "Bags"
+  ],
+  "category": "fashion"
+},{
+  "_id": {
+    "$oid": "60f561552f6a4f4888d98a37"
+  },
+  "subCategory": [
+    "Mobile",
+    "Laptop",
+    "Tablets",
+    "PC",
+    "SmartWatch",
+    "Earphones",
+    "Television",
+    "Speakers"
+  ],
+  "category": "gadgets"
+},{
+  "subCategory": [
+    "Movies",
+    "WebSeries",
+    "ShortFilms",
+    "Anime"
+  ],
+  "category": "entertainment"
+},{
+  "subCategory": [
+    "Drinks",
+    "Deserts",
+    "MainCourse",
+    "Starters"
+  ],
+  "category": "foodandbeverages"
+},{
+  "subCategory": [
+    "Basketball",
+    "FootBall",
+    "Badminton",
+    "Snooker",
+	"Chess",
+	"Baseball",
+	"Cricket",
+	"Swimming",
+	"Golf",
+	"Skating"
+  ],
+  "category": "sports"
+},{
+  "subCategory": [
+    "Construction",
+    "IT",
+    "Retail",
+    "SupplyChain",
+	"Finance",
+	"Marketing",
+	"Advertising"
+  ],
+  "category": "consultancy"
+},{
+  "subCategory": [
+    "PrivateBank",
+    "PublicBank",
+  ],
+  "category": "banking"
+}]
