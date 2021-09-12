@@ -5,11 +5,11 @@
 Both for the backend and frontend application:
 * nodejs [official website](https://nodejs.org/en/) - nodejs includes [npm](https://nodejs.org/en/)  (node package manager)
 
-* You need git to clone the team-30/frontend repository. You can get git from http://git-scm.com/.
+* You need git to clone the AdHunt_Frontend repository. You can get git from http://git-scm.com/.
 
 
 ## Clone Adhunt Project
-* Clone the team-30/frontend repository using git: [frontend repository](https://gitlab.lrz.de/seba-master-2021/team-30/frontend.git)
+* Clone the AdHunt_Frontend repository using git: [frontend repository](https://gitlab.lrz.de/seba-master-2021/team-30/frontend.git)
 
 * Go to your project root folder via command line
 ```
